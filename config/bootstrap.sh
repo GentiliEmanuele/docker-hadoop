@@ -4,7 +4,7 @@ sudo sh $HADOOP_PREFIX/etc/hadoop/hadoop-env.sh
 
 rm /tmp/*.pid
 service ssh start
-sh $HADOOP_PREFIX/sbin/start-dfs.sh
+# $HADOOP_PREFIX/sbin/start-dfs.sh
 
 # Launch bash console  
 /bin/bash
