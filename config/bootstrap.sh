@@ -7,4 +7,4 @@ service ssh start
 # $HADOOP_PREFIX/sbin/start-dfs.sh
 
 # Launch bash console  
-/bin/bash
+#/bin/bash
